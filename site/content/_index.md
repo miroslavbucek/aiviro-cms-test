@@ -24,7 +24,7 @@ products:
   - image: img/whatsapp-image-2021-01-31-at-18.19.21.jpeg
     text: aaaaa
 values:
-  heading: Our values 22
+  heading: Our values 222424
   text: >-
     Coffee is an amazing part of human culture but it has a dark side too – one
     of colonialism and mindless abuse of natural resources and human lives. We
